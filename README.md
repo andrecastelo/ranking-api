@@ -1,4 +1,4 @@
 # Ranking API
 
-A idéia aqui é construir uma API que outros serviços possam usar, que faça as
-matemáticas dos ELOs e etc.
+The idea for this project is to build an API that allow external services to
+calculate ELO changes in games between two players.
